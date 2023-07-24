@@ -85,7 +85,7 @@ def create_df(dfOri, df_name, df, prefix):
 # Title
 st.title('Yogyakarta Hotel Price Estimation')
 st.write(
-    'For more info about this project, please visit my [**Github**](https://github.com/Liore-S/lodging-price-regression/)')
+    'For more info about this project, please visit my [**Github**](https://github.com/Liore-S/hotel-yoyakarta)')
 
 # Sidebar
 st.sidebar.header('User Input Features')
